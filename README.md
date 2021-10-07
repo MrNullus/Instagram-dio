@@ -1,2 +1,2 @@
-# Instagram da Dio
-## _Repositorio feito para a aula de Flexbox em que fiz a interface de login do Instagram :)_
+# Instagram da DIO
+## _Repositorio feito para a aula de Flexbox  no bootcamp em que fiz a interface de login do Instagram :)_
